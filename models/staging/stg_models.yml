@@ -1,0 +1,15 @@
+version: 2
+
+models:
+    - name: stg_calendar
+      description: "Raw data of daily listing reservation"
+
+    - name: stg_listings
+      description: "Raw listings data"
+
+    - name: stg_amenities_changelog
+      description: "Raw data of listing amenities changelog"
+
+    - name: stg_reviews
+      description: "Raw data of generated listing reviews"
+

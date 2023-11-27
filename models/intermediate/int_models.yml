@@ -1,0 +1,9 @@
+version: 2
+
+models:
+    - name: int_agg_listing_avg_review
+      description: "Aggregated tables consisting of average review score and number of reviews aggregated by review date and listing id"
+
+    - name: int_dim_listing_amenties
+      description: "Slowly changing dimension of listing amenities"
+
