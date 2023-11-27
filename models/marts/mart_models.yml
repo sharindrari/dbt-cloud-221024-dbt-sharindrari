@@ -1,0 +1,5 @@
+version: 2
+
+models:
+    - name: fct_listing_reservations_daily
+      description: "Fact table consisting of listing information per day and selected aggregated columns for ease of query"
